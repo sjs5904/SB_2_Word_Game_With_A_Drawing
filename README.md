@@ -10,4 +10,3 @@
 2. MySQL Workbench
 3. Android Studio
 4. Spring Boot
-
