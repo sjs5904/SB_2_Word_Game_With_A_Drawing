@@ -40,7 +40,10 @@
       + 유저 프로필 수정  
       + 로그인, 회원가입  
       + 갤러리: 비트맵 이미지를 String64로 변환 후 인코딩하여 서버로 전송, 서버에서 받은 이미지 정보를 다시 변환하여 게재  
-      + 친구목록 관리: 친구 추가, 초대, 로그인 여부 확인.  
+      + 친구목록 관리: 친구 추가, 초대, 로그인 여부 확인. 
+      
+### 스크린 플로우 
+![image](https://user-images.githubusercontent.com/49792776/83834529-7f550f00-a729-11ea-8c5f-aa8db6582d42.png)
 
 ### 클래스 기획 세부사항
 [Server doc pdf-1.pdf](https://github.com/sjs5904/SB_2_Word_Game_With_A_Drawing/files/4733749/Server.doc.pdf-1.pdf)  
