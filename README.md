@@ -43,5 +43,5 @@
       + 친구목록 관리: 친구 추가, 초대, 로그인 여부 확인.  
 
 ### 클래스 기획 세부사항
-[client doc pdf-1.pdf](https://github.com/sjs5904/SB_2_Word_Game_With_A_Drawing/files/4733747/client.doc.pdf-1.pdf)
-[Server doc pdf-1.pdf](https://github.com/sjs5904/SB_2_Word_Game_With_A_Drawing/files/4733749/Server.doc.pdf-1.pdf)
+[Server doc pdf-1.pdf](https://github.com/sjs5904/SB_2_Word_Game_With_A_Drawing/files/4733749/Server.doc.pdf-1.pdf)  
+[client doc pdf-1.pdf](https://github.com/sjs5904/SB_2_Word_Game_With_A_Drawing/files/4733747/client.doc.pdf-1.pdf)  
