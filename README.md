@@ -5,13 +5,13 @@
 데이터베이스 테이블 예시
 ![image](https://user-images.githubusercontent.com/49792776/83830733-d1456700-a720-11ea-8119-a616342b8aa3.png)
 
-사용한 프로그램
+### 사용한 프로그램
   1. git desktop  
   2. MySQL Workbench  
   3. Android Studio  
   4. Spring Boot  
-
-디자인 세부사항  
+   
+### 디자인 세부사항  
   + 서버:  
     1) 유저 매니지먼트  
       * 로그인 관리.  
