@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "375de69f-a2d7-48fc-89a9-3d2b23f846ae",
+        "type": "message",
+        "text": "Hey guys did u see the TA's email?",
+        "user": "UMJD8R3MX",
+        "ts": "1568811361.005000",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "g447b18b2a5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/447b18b2a5baf68a326cd893fc0868bd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Ahmed Alketbi",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "ahmed.alketbi96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "05dfb56d-ff83-4630-bb90-d6640ff6a88d",
+        "type": "message",
+        "text": "I didn't know that we had a meeting this week.",
+        "user": "UMJD8R3MX",
+        "ts": "1568811378.005600",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "g447b18b2a5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/447b18b2a5baf68a326cd893fc0868bd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Ahmed Alketbi",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "ahmed.alketbi96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

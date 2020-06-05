@@ -1,0 +1,385 @@
+[
+    {
+        "client_msg_id": "d403e99d-ae19-4453-954d-84e5399bbb93",
+        "type": "message",
+        "text": "amazing ty guys it was a pleasure working with you this semester",
+        "user": "UMJD8R3MX",
+        "ts": "1576230224.001600",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "g447b18b2a5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/447b18b2a5baf68a326cd893fc0868bd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Ahmed Alketbi",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "ahmed.alketbi96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cyKox",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "amazing ty guys it was a pleasure working with you this semester"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FRA8H5210",
+                "created": 1576260672,
+                "timestamp": 1576260672,
+                "name": "20191213_121211.jpg",
+                "title": "20191213_121211.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UMQQLLDB7",
+                "editable": false,
+                "size": 561328,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TMQQCHQ8G-FRA8H5210\/20191213_121211.jpg?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TMQQCHQ8G-FRA8H5210\/download\/20191213_121211.jpg?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TMQQCHQ8G-FRA8H5210-b5a712cf7e\/20191213_121211_64.jpg?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TMQQCHQ8G-FRA8H5210-b5a712cf7e\/20191213_121211_80.jpg?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TMQQCHQ8G-FRA8H5210-b5a712cf7e\/20191213_121211_360.jpg?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TMQQCHQ8G-FRA8H5210-b5a712cf7e\/20191213_121211_480.jpg?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TMQQCHQ8G-FRA8H5210-b5a712cf7e\/20191213_121211_160.jpg?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TMQQCHQ8G-FRA8H5210-b5a712cf7e\/20191213_121211_720.jpg?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TMQQCHQ8G-FRA8H5210-b5a712cf7e\/20191213_121211_800.jpg?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TMQQCHQ8G-FRA8H5210-b5a712cf7e\/20191213_121211_960.jpg?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TMQQCHQ8G-FRA8H5210-b5a712cf7e\/20191213_121211_1024.jpg?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 6,
+                "original_w": 4032,
+                "original_h": 3024,
+                "thumb_tiny": "AwAwACRk0XmADOMUkcXlqQMnNSRZMSk8HFLsGOlADQuPWkAyc5\/SnY46H86iaVkk2gfnQMmxRimlmyfkz+NJub+5+tIB752cdaj2ufX8akX+IZJHbmnZzTvYm1xhB4+lIqgtll59SKV5Aq5wTSJNvP3f1pWKHYPvRg+9Lu9jRu9jQAyLOTx2p4BpKWgErCFM8EZHvRtAHCjNFHFFwF5opKKLgf\/Z",
+                "permalink": "https:\/\/com-s-309-project.slack.com\/files\/UMQQLLDB7\/FRA8H5210\/20191213_121211.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TMQQCHQ8G-FRA8H5210-65dffbd056",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UMQQLLDB7",
+        "display_as_bot": false,
+        "ts": "1576260683.000100",
+        "client_msg_id": "e090f428-2978-4b5a-bfce-b48ed8ca53b0"
+    },
+    {
+        "client_msg_id": "09186e0c-9ea1-4518-a399-0ae9dc06fc2b",
+        "type": "message",
+        "text": "damn",
+        "user": "UMDBCCHJP",
+        "ts": "1576260723.000600",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "gbe474a229c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/be474a229c528640e2d3f3a4307feba6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Kyle Gug",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "rnrgprms1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "437O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "damn"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6A1A64A8-29DF-4D98-8A9A-FC10845204BF",
+        "type": "message",
+        "text": "Hey guys I just send email to ta that our group went to see the posters with file attached that I took so u guys don't have to come in.\nGood luck on ur finals",
+        "user": "UMDBCCHJP",
+        "ts": "1576268419.002300",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "gbe474a229c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/be474a229c528640e2d3f3a4307feba6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Kyle Gug",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "rnrgprms1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "de+B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey guys I just send email to ta that our group went to see the posters with file attached that I took so u guys don't have to come in."
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Good luck on ur finals"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FRCVD5DLH",
+                "created": 1576268424,
+                "timestamp": 1576268424,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UMDBCCHJP",
+                "editable": false,
+                "size": 192140,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TMQQCHQ8G-FRCVD5DLH\/image_from_ios.jpg?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TMQQCHQ8G-FRCVD5DLH\/download\/image_from_ios.jpg?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TMQQCHQ8G-FRCVD5DLH-ab63e89c70\/image_from_ios_64.jpg?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TMQQCHQ8G-FRCVD5DLH-ab63e89c70\/image_from_ios_80.jpg?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TMQQCHQ8G-FRCVD5DLH-ab63e89c70\/image_from_ios_360.jpg?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TMQQCHQ8G-FRCVD5DLH-ab63e89c70\/image_from_ios_480.jpg?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TMQQCHQ8G-FRCVD5DLH-ab63e89c70\/image_from_ios_160.jpg?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TMQQCHQ8G-FRCVD5DLH-ab63e89c70\/image_from_ios_720.jpg?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TMQQCHQ8G-FRCVD5DLH-ab63e89c70\/image_from_ios_800.jpg?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TMQQCHQ8G-FRCVD5DLH-ab63e89c70\/image_from_ios_960.jpg?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TMQQCHQ8G-FRCVD5DLH-ab63e89c70\/image_from_ios_1024.jpg?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 960,
+                "original_h": 1280,
+                "thumb_tiny": "AwAwACS0QTjBI+lIVI\/iamvOEYrtJIppn3EALgd80WYcyHHj+NqikufKfbgtx3NSs2CRgYqKSETSbs49sVPMh2JRLlFOxuRnijzf+mb\/AJUuNgCjnAxRk+n60wGPFvmPOOAacIFHqTTmOAp4PvRu4NO4uVAVBJJpRHjnJqKWV1jyMA56mq6XEp+85H4VNhl1hknijb7H86Qs2TyOtJub1FMBqfNCvtTwMjHNNGQMBsD2FGW\/vH8qQDSoJ4GRUiAA\/dx+FJk\/3jSc\/wB40XCwmfUUZ9qX8TR+JouB\/9k=",
+                "permalink": "https:\/\/com-s-309-project.slack.com\/files\/UMDBCCHJP\/FRCVD5DLH\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TMQQCHQ8G-FRCVD5DLH-85ecf526b5",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C1AX=",
+                "elements": []
+            }
+        ],
+        "user": "UMDBCCHJP",
+        "display_as_bot": false,
+        "ts": "1576268427.002400",
+        "client_msg_id": "0E982A7F-44A1-4F3A-B53A-D7B9540848A4"
+    },
+    {
+        "client_msg_id": "A6982028-56B0-452E-8E1A-3F6CD313317A",
+        "type": "message",
+        "text": "Just in case if u guys want to c it. It's on the second floor door close to carver",
+        "user": "UMDBCCHJP",
+        "ts": "1576268458.003400",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "gbe474a229c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/be474a229c528640e2d3f3a4307feba6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Kyle Gug",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "rnrgprms1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g1A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just in case if u guys want to c it. It's on the second floor door close to carver"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "37d7e540-a7ac-4bed-9a3d-d9c723a3e3c3",
+        "type": "message",
+        "text": ":+1: :+1: :+1:",
+        "user": "UMQQLLDB7",
+        "ts": "1576268482.003500",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "g0cf17bcb657",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0cf17bcb6576ef1ffc0f89bb9c803ad1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "Jisoo han",
+            "display_name": "Jisoo han",
+            "team": "TMQQCHQ8G",
+            "name": "jhan8",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B+Hiv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "64cb98c9-5a06-489b-92a8-ea99bbe4beb9",
+        "type": "message",
+        "text": "Dont forget we have final report due tonight",
+        "user": "UMQQLLDB7",
+        "ts": "1576277063.004000",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "g0cf17bcb657",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0cf17bcb6576ef1ffc0f89bb9c803ad1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "Jisoo han",
+            "display_name": "Jisoo han",
+            "team": "TMQQCHQ8G",
+            "name": "jhan8",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LzJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dont forget we have final report due tonight"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

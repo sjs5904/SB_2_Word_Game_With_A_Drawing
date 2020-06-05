@@ -1,0 +1,149 @@
+[
+    {
+        "client_msg_id": "6113B90A-2B4F-4934-877A-22A9A8794E8E",
+        "type": "message",
+        "text": "Hey guys r we meeting today after class??",
+        "user": "UMDBCCHJP",
+        "ts": "1571678531.001100",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "gbe474a229c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/be474a229c528640e2d3f3a4307feba6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Kyle Gug",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "rnrgprms1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "dfdf7964-152d-41df-99cf-da3e296582bb",
+        "type": "message",
+        "text": "Is there a class today?",
+        "user": "UMJD8R3MX",
+        "ts": "1571679046.001800",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "g447b18b2a5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/447b18b2a5baf68a326cd893fc0868bd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Ahmed Alketbi",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "ahmed.alketbi96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "29DD6FD8-E72F-4ABC-95FB-32B57F71AF19",
+        "type": "message",
+        "text": "Nope I will be at library",
+        "user": "UMDBCCHJP",
+        "ts": "1571679059.002200",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "gbe474a229c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/be474a229c528640e2d3f3a4307feba6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Kyle Gug",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "rnrgprms1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "079f0ba5-c3e7-4f14-b2c1-95015f8ca265",
+        "type": "message",
+        "text": "Ok me too",
+        "user": "UMJD8R3MX",
+        "ts": "1571679078.002600",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "g447b18b2a5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/447b18b2a5baf68a326cd893fc0868bd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Ahmed Alketbi",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "ahmed.alketbi96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "E4C48B63-0E34-421A-B592-F374878BFC89",
+        "type": "message",
+        "text": "I have to study for exam tomorrow sorry",
+        "user": "UMQQCHQUQ",
+        "ts": "1571679106.003300",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "ge93d63c3e69",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e93d63c3e6902008d68ae3eea759ba82.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "",
+            "real_name": "Jooseung",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "jooseung",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f8efde96-b7f7-439f-bc9e-f93a8d2149a4",
+        "type": "message",
+        "text": "Good Luck on your exam",
+        "user": "UMJD8R3MX",
+        "ts": "1571679125.003700",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "g447b18b2a5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/447b18b2a5baf68a326cd893fc0868bd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Ahmed Alketbi",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "ahmed.alketbi96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "C25E060B-DB3B-4BDE-B62E-C3F2AFA740CF",
+        "type": "message",
+        "text": "thanks",
+        "user": "UMQQCHQUQ",
+        "ts": "1571679151.003900",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "ge93d63c3e69",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e93d63c3e6902008d68ae3eea759ba82.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "",
+            "real_name": "Jooseung",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "jooseung",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

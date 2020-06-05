@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "EEF00792-B850-470D-9FBB-D91182351804",
+        "type": "message",
+        "text": "Guys good news we are having demo on thursday so we do have extra day",
+        "user": "UMDBCCHJP",
+        "ts": "1569908109.000800",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "gbe474a229c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/be474a229c528640e2d3f3a4307feba6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Kyle Gug",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "rnrgprms1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5C4CCDA4-9967-467F-9961-A242657895AF",
+        "type": "message",
+        "text": "Thursday 12:15 is the demo",
+        "user": "UMDBCCHJP",
+        "ts": "1569908118.001200",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "gbe474a229c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/be474a229c528640e2d3f3a4307feba6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Kyle Gug",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "rnrgprms1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

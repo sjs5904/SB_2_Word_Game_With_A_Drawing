@@ -1,0 +1,23 @@
+[
+    {
+        "client_msg_id": "6ba765c5-2bed-4be1-9b8b-8dc7dea207e6",
+        "type": "message",
+        "text": "fixed websocket :slightly_smiling_face:",
+        "user": "UMQQCHQUQ",
+        "ts": "1572960049.005600",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "ge93d63c3e69",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e93d63c3e6902008d68ae3eea759ba82.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "",
+            "real_name": "Jooseung",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "jooseung",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

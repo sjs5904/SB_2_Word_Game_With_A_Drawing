@@ -1,0 +1,165 @@
+[
+    {
+        "client_msg_id": "82767b92-ac4f-41a5-b46d-db135b5c4579",
+        "type": "message",
+        "text": "<https:\/\/socket.io\/blog\/native-socket-io-and-android\/>",
+        "user": "UMJD8R3MX",
+        "ts": "1570640879.000200",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "g447b18b2a5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/447b18b2a5baf68a326cd893fc0868bd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Ahmed Alketbi",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "ahmed.alketbi96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Socket.IO",
+                "title": "Socket.IO  —  Native Socket.IO and Android",
+                "title_link": "https:\/\/socket.io\/blog\/native-socket-io-and-android\/",
+                "text": "In this tutorial well learn how to create a chat client that communicates with a <http:\/\/Socket.IO|Socket.IO> Node.JS chat server, with our native Android Client! If you want to jump straight to the code, its on GitHub",
+                "fallback": "Socket.IO: Socket.IO  —  Native Socket.IO and Android",
+                "thumb_url": "https:\/\/socket.io\/images\/androidchat.gif",
+                "from_url": "https:\/\/socket.io\/blog\/native-socket-io-and-android\/",
+                "thumb_width": 338,
+                "thumb_height": 600,
+                "service_icon": "https:\/\/socket.io\/images\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/socket.io\/blog\/native-socket-io-and-android\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "73A8B312-79CA-4D92-96F3-75E96E2836E8",
+        "type": "message",
+        "text": "Looks good thx",
+        "user": "UMDBCCHJP",
+        "ts": "1570640933.000600",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "gbe474a229c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/be474a229c528640e2d3f3a4307feba6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Kyle Gug",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "rnrgprms1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "83b4916f-ca3b-4dad-a5a9-f9d20685b08c",
+        "type": "message",
+        "text": "Sorry I guess socket io is difficult with springboot",
+        "user": "UMJD8R3MX",
+        "ts": "1570641177.001500",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "g447b18b2a5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/447b18b2a5baf68a326cd893fc0868bd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Ahmed Alketbi",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "ahmed.alketbi96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5CCDF7BD-6726-4398-B6F1-A77FB4A60A28",
+        "type": "message",
+        "text": "Yeah but its consideration",
+        "user": "UMDBCCHJP",
+        "ts": "1570641195.002100",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "gbe474a229c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/be474a229c528640e2d3f3a4307feba6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Kyle Gug",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "rnrgprms1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8B82E9E8-6451-405B-B0FE-B235C0167A68",
+        "type": "message",
+        "text": "R u gonna come to meeting??",
+        "user": "UMDBCCHJP",
+        "ts": "1570641216.002600",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "gbe474a229c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/be474a229c528640e2d3f3a4307feba6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Kyle Gug",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "rnrgprms1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0d0b5963-a3f8-4184-ac35-451498bf9a70",
+        "type": "message",
+        "text": "Yeah I have issues i wanna ask the TA",
+        "user": "UMJD8R3MX",
+        "ts": "1570641242.003300",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "g447b18b2a5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/447b18b2a5baf68a326cd893fc0868bd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Ahmed Alketbi",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "ahmed.alketbi96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "094F6E0C-ED0D-4EC8-9F63-53D80080243E",
+        "type": "message",
+        "text": "Kk good to know",
+        "user": "UMDBCCHJP",
+        "ts": "1570641342.003600",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "gbe474a229c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/be474a229c528640e2d3f3a4307feba6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Kyle Gug",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "rnrgprms1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

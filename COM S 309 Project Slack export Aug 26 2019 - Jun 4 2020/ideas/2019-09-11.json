@@ -1,0 +1,65 @@
+[
+    {
+        "client_msg_id": "EEBA48F1-04AE-48CE-8170-0762EFF05E67",
+        "type": "message",
+        "text": "Active: drawing permission   \/ Passive : typing the guess",
+        "user": "UMDBCCHJP",
+        "ts": "1568232006.001100",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "gbe474a229c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/be474a229c528640e2d3f3a4307feba6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Kyle Gug",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "rnrgprms1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "157383bd-64e3-4338-af53-4f6dff4a4115",
+        "type": "message",
+        "text": "To do: set up the git ignore file and experiment more for a better grade I guess",
+        "user": "UMJD8R3MX",
+        "ts": "1568232473.001700",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "g447b18b2a5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/447b18b2a5baf68a326cd893fc0868bd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Ahmed Alketbi",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "ahmed.alketbi96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b0ced1cd-da51-4fe5-9b1f-c85fca0d0d23",
+        "type": "message",
+        "text": "Did he say anything else?",
+        "user": "UMJD8R3MX",
+        "ts": "1568232483.002100",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "g447b18b2a5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/447b18b2a5baf68a326cd893fc0868bd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Ahmed Alketbi",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "ahmed.alketbi96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

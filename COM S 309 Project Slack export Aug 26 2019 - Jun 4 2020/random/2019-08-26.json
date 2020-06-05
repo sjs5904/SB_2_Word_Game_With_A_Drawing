@@ -1,0 +1,30 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1566851990.000200",
+        "user": "UMQQCHQUQ",
+        "text": "<@UMQQCHQUQ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1566852074.000400",
+        "user": "UMJD8R3MX",
+        "text": "<@UMJD8R3MX> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1566852075.000600",
+        "user": "UMDBCCHJP",
+        "text": "<@UMDBCCHJP> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1566852075.000800",
+        "user": "UMQQLLDB7",
+        "text": "<@UMQQLLDB7> has joined the channel"
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1567625838.000200",
+        "user": "UMDBCCHJP",
+        "text": "<@UMDBCCHJP> has joined the channel"
+    },
+    {
+        "client_msg_id": "53ACAB30-D7D2-491E-8AEE-249E08711CF6",
+        "type": "message",
+        "text": "<@UMQQCHQUQ> <@UMJD8R3MX> <@UMQQLLDB7> ",
+        "user": "UMDBCCHJP",
+        "ts": "1567625854.000600",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "gbe474a229c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/be474a229c528640e2d3f3a4307feba6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Kyle Gug",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "rnrgprms1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1567625856.000800",
+        "user": "UMQQCHQUQ",
+        "text": "<@UMQQCHQUQ> has joined the channel",
+        "inviter": "UMDBCCHJP"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1567625857.001000",
+        "user": "UMJD8R3MX",
+        "text": "<@UMJD8R3MX> has joined the channel",
+        "inviter": "UMDBCCHJP"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1567625857.001200",
+        "user": "UMQQLLDB7",
+        "text": "<@UMQQLLDB7> has joined the channel",
+        "inviter": "UMDBCCHJP"
+    },
+    {
+        "client_msg_id": "B2526E2B-3D38-4F4D-9420-863F6350653E",
+        "type": "message",
+        "text": "Git: <https:\/\/git.linux.iastate.edu\/cs309\/fall2019\/sb_2>\nTrello:  <https:\/\/trello.com\/b\/8rJMpE5s\/sb2>",
+        "user": "UMDBCCHJP",
+        "ts": "1567625860.001400",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "gbe474a229c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/be474a229c528640e2d3f3a4307feba6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Kyle Gug",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "rnrgprms1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,138 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1567188762.000200",
+        "user": "UMDBCCHJP",
+        "text": "<@UMDBCCHJP> has joined the channel"
+    },
+    {
+        "client_msg_id": "C7875CF5-CD86-4A21-B148-2BA553D22280",
+        "type": "message",
+        "text": "We will use server: Spring Boot \/ Database: SQL DB",
+        "user": "UMDBCCHJP",
+        "ts": "1567188809.001000",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "gbe474a229c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/be474a229c528640e2d3f3a4307feba6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Kyle Gug",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "rnrgprms1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "B9CCB486-2649-44D1-963D-325F9160F880",
+        "type": "message",
+        "text": "We could upload drawings directly to server and have chat system or comment with a log in. Android ",
+        "user": "UMDBCCHJP",
+        "ts": "1567188877.002400",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "gbe474a229c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/be474a229c528640e2d3f3a4307feba6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Kyle Gug",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "rnrgprms1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "F9E696BD-84D6-4049-8008-65870E3D3BF7",
+        "type": "message",
+        "text": "<@UMJD8R3MX> <@UMQQCHQUQ> <@UMQQLLDB7> ",
+        "user": "UMDBCCHJP",
+        "ts": "1567195388.000100",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "gbe474a229c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/be474a229c528640e2d3f3a4307feba6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Kyle Gug",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "rnrgprms1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1567195391.000300",
+        "user": "UMJD8R3MX",
+        "text": "<@UMJD8R3MX> has joined the channel",
+        "inviter": "UMDBCCHJP"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1567195391.000500",
+        "user": "UMQQCHQUQ",
+        "text": "<@UMQQCHQUQ> has joined the channel",
+        "inviter": "UMDBCCHJP"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1567195391.000700",
+        "user": "UMQQLLDB7",
+        "text": "<@UMQQLLDB7> has joined the channel",
+        "inviter": "UMDBCCHJP"
+    },
+    {
+        "client_msg_id": "887F1307-FDEC-44CE-AEE0-F7476CF0448C",
+        "type": "message",
+        "text": "Catch mind",
+        "user": "UMDBCCHJP",
+        "ts": "1567196040.000900",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "gbe474a229c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/be474a229c528640e2d3f3a4307feba6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Kyle Gug",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "rnrgprms1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3A39FFEE-2F6B-4916-A629-6C8F28569CAA",
+        "type": "message",
+        "text": "Report \/ Tech \/ Schedule\/ Test",
+        "user": "UMDBCCHJP",
+        "ts": "1567196163.001500",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "gbe474a229c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/be474a229c528640e2d3f3a4307feba6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Kyle Gug",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "rnrgprms1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

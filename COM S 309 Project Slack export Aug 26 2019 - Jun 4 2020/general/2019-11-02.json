@@ -1,0 +1,148 @@
+[
+    {
+        "client_msg_id": "c192065c-9ef1-485d-92aa-ea93f5501e66",
+        "type": "message",
+        "text": "Hey Guys I forgot are we meeting today or tomorrow?",
+        "user": "UMJD8R3MX",
+        "ts": "1572724895.002400",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "g447b18b2a5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/447b18b2a5baf68a326cd893fc0868bd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Ahmed Alketbi",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "ahmed.alketbi96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2a75e7b2-0104-4322-97bf-09ae605345e2",
+        "type": "message",
+        "text": "today :smile:",
+        "user": "UMQQCHQUQ",
+        "ts": "1572724909.002600",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "ge93d63c3e69",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e93d63c3e6902008d68ae3eea759ba82.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "",
+            "real_name": "Jooseung",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "jooseung",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9b78e612-8b3a-404d-9630-dd22d21410d7",
+        "type": "message",
+        "text": "K just making sure :joy:",
+        "user": "UMJD8R3MX",
+        "ts": "1572725024.003000",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "g447b18b2a5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/447b18b2a5baf68a326cd893fc0868bd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Ahmed Alketbi",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "ahmed.alketbi96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "04B4AAA7-8859-4BE0-884E-3C5519186829",
+        "type": "message",
+        "text": "I'm at first floor",
+        "user": "UMDBCCHJP",
+        "ts": "1572725891.003300",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "gbe474a229c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/be474a229c528640e2d3f3a4307feba6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Kyle Gug",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "rnrgprms1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "27e65483-f44a-4915-98f8-1994bfd7f347",
+        "type": "message",
+        "text": "<https:\/\/docs.google.com\/document\/d\/19PNbFyC57gRJDvOBmbr5P-d9qVVi7ARENtbCXMYDeQU\/edit?usp=sharing>",
+        "user": "UMJD8R3MX",
+        "ts": "1572729718.003500",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "g447b18b2a5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/447b18b2a5baf68a326cd893fc0868bd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Ahmed Alketbi",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "ahmed.alketbi96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FQ3APK0UQ",
+                "created": 1572734718,
+                "timestamp": 1572734718,
+                "name": "Api Doc.docx",
+                "title": "Api Doc.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UMJD8R3MX",
+                "editable": false,
+                "size": 7973,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TMQQCHQ8G-FQ3APK0UQ\/api_doc.docx?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TMQQCHQ8G-FQ3APK0UQ\/download\/api_doc.docx?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TMQQCHQ8G-FQ3APK0UQ-eda1fda1bd\/api_doc_converted.pdf?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TMQQCHQ8G-FQ3APK0UQ-eda1fda1bd\/api_doc_thumb_pdf.png?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/com-s-309-project.slack.com\/files\/UMJD8R3MX\/FQ3APK0UQ\/api_doc.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TMQQCHQ8G-FQ3APK0UQ-0240627932",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UMJD8R3MX",
+        "display_as_bot": false,
+        "ts": "1572734720.003800",
+        "client_msg_id": "1b860600-7de4-407f-8d66-48d17c89242e"
+    }
+]

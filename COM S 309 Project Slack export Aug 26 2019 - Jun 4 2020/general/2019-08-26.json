@@ -1,0 +1,51 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1566851990.000200",
+        "user": "UMQQCHQUQ",
+        "text": "<@UMQQCHQUQ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1566852074.000400",
+        "user": "UMJD8R3MX",
+        "text": "<@UMJD8R3MX> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1566852075.000600",
+        "user": "UMDBCCHJP",
+        "text": "<@UMDBCCHJP> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1566852075.000800",
+        "user": "UMQQLLDB7",
+        "text": "<@UMQQLLDB7> has joined the channel"
+    },
+    {
+        "client_msg_id": "B53362BE-A465-44E4-A2F6-D7FF91ADB483",
+        "type": "message",
+        "text": "515 650 2255",
+        "user": "UMQQCHQUQ",
+        "ts": "1566852237.001400",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "ge93d63c3e69",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e93d63c3e6902008d68ae3eea759ba82.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "",
+            "real_name": "Jooseung",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "jooseung",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,197 @@
+[
+    {
+        "client_msg_id": "153969d1-d4b3-490a-926d-1a3a2b059adb",
+        "type": "message",
+        "text": "Guys for tomorrow class we have to go c our poster at Astanasoff and tell TA or Mitra about this",
+        "user": "UMDBCCHJP",
+        "ts": "1576175949.000900",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "gbe474a229c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/be474a229c528640e2d3f3a4307feba6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Kyle Gug",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "rnrgprms1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pU8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Guys for tomorrow class we have to go c our poster at Astanasoff and tell TA or Mitra about this"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0e8336b7-6ab9-4773-ad35-eaaa2d41d077",
+        "type": "message",
+        "text": "Hope u guys don’t forget this",
+        "user": "UMDBCCHJP",
+        "ts": "1576175959.001200",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "gbe474a229c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/be474a229c528640e2d3f3a4307feba6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Kyle Gug",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "rnrgprms1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GflpG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hope u guys don’t forget this"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f8af1790-0e63-45ff-9267-7ce182d98cfe",
+        "type": "message",
+        "text": "Hey Guys",
+        "user": "UMDBCCHJP",
+        "ts": "1576210860.000200",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "gbe474a229c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/be474a229c528640e2d3f3a4307feba6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Kyle Gug",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "rnrgprms1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H+SoQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Guys"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Final app features had to lower resolution since the size was too big.\nHope u guys enjoy it",
+        "files": [
+            {
+                "id": "FRN3J7AN9",
+                "created": 1576210925,
+                "timestamp": 1576210925,
+                "name": "Final App Feature.mov",
+                "title": "Final App Feature.mov",
+                "mimetype": "video\/quicktime",
+                "filetype": "mov",
+                "pretty_type": "QuickTime Movie",
+                "user": "UMDBCCHJP",
+                "editable": false,
+                "size": 75416189,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TMQQCHQ8G-FRN3J7AN9\/final_app_feature.mov?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TMQQCHQ8G-FRN3J7AN9\/download\/final_app_feature.mov?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "thumb_video": "https:\/\/files.slack.com\/files-tmb\/TMQQCHQ8G-FRN3J7AN9-69753941aa\/final_app_feature_thumb_video.jpeg?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "permalink": "https:\/\/com-s-309-project.slack.com\/files\/UMDBCCHJP\/FRN3J7AN9\/final_app_feature.mov",
+                "permalink_public": "https:\/\/slack-files.com\/TMQQCHQ8G-FRN3J7AN9-bb46708f21",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "FRPUJJGUX",
+                "created": 1576210925,
+                "timestamp": 1576210925,
+                "name": "Three_User_Demo.mp4",
+                "title": "Three_User_Demo.mp4",
+                "mimetype": "video\/mp4",
+                "filetype": "mp4",
+                "pretty_type": "MPEG 4 Video",
+                "user": "UMDBCCHJP",
+                "editable": false,
+                "size": 40179415,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TMQQCHQ8G-FRPUJJGUX\/three_user_demo.mp4?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TMQQCHQ8G-FRPUJJGUX\/download\/three_user_demo.mp4?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "thumb_video": "https:\/\/files.slack.com\/files-tmb\/TMQQCHQ8G-FRPUJJGUX-af345081f0\/three_user_demo_thumb_video.jpeg?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "permalink": "https:\/\/com-s-309-project.slack.com\/files\/UMDBCCHJP\/FRPUJJGUX\/three_user_demo.mp4",
+                "permalink_public": "https:\/\/slack-files.com\/TMQQCHQ8G-FRPUJJGUX-3e944df1af",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5K7C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Final app features had to lower resolution since the size was too big.\nHope u guys enjoy it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UMDBCCHJP",
+        "ts": "1576210930.000400",
+        "client_msg_id": "b2ddc790-45d5-4dcb-b242-6e5e96d30bd1"
+    }
+]

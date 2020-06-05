@@ -1,0 +1,20 @@
+[
+{
+    "user_id": "UMJD8R3MX",
+    "user_name": "ahmed.alketbi96",
+    "date": "1568060668",
+    "change_type": "added",
+    "app_type": "Trello",
+    "app_id": "A074YH40Z",
+    "scope": "identify,channels:history,groups:history,im:history,mpim:history,channels:read,emoji:read,groups:read,mpim:read,reminders:read,search:read,stars:read,team:read,users:read,users:read.email,chat:write:user,chat:write:bot,im:write,reminders:write"
+},
+{
+    "user_id": "UMDBCCHJP",
+    "user_name": "rnrgprms1",
+    "date": "1567915550",
+    "change_type": "added",
+    "app_type": "Trello",
+    "app_id": "A074YH40Z",
+    "scope": "identify,channels:history,groups:history,im:history,mpim:history,channels:read,emoji:read,groups:read,mpim:read,reminders:read,search:read,stars:read,team:read,users:read,users:read.email,chat:write:user,chat:write:bot,im:write,reminders:write"
+}
+]

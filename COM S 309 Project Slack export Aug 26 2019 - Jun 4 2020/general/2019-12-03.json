@@ -1,0 +1,165 @@
+[
+    {
+        "client_msg_id": "b4933809-37b0-4367-96ac-a0b376167c78",
+        "type": "message",
+        "text": "Finished Block Diagram",
+        "user": "UMDBCCHJP",
+        "ts": "1575424830.002200",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "gbe474a229c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/be474a229c528640e2d3f3a4307feba6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Kyle Gug",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "rnrgprms1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2F=b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Finished Block Diagram"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8ea97b10-6f34-4eeb-a33e-e624178a8839",
+        "type": "message",
+        "text": "just need to edit api docs and upload it to server",
+        "user": "UMDBCCHJP",
+        "ts": "1575424845.002600",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "gbe474a229c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/be474a229c528640e2d3f3a4307feba6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Kyle Gug",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "rnrgprms1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hc8I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "just need to edit api docs and upload it to server"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "old docs",
+        "files": [
+            {
+                "id": "FR0TK4B7B",
+                "created": 1575427624,
+                "timestamp": 1575427624,
+                "name": "client doc.docx",
+                "title": "client doc.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UMJD8R3MX",
+                "editable": false,
+                "size": 21475,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TMQQCHQ8G-FR0TK4B7B\/client_doc.docx?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TMQQCHQ8G-FR0TK4B7B\/download\/client_doc.docx?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TMQQCHQ8G-FR0TK4B7B-a986e0e7e0\/client_doc_converted.pdf?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TMQQCHQ8G-FR0TK4B7B-a986e0e7e0\/client_doc_thumb_pdf.png?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/com-s-309-project.slack.com\/files\/UMJD8R3MX\/FR0TK4B7B\/client_doc.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TMQQCHQ8G-FR0TK4B7B-2d2e3fccc2",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "FQW2NEP2N",
+                "created": 1575427624,
+                "timestamp": 1575427624,
+                "name": "Server doc.docx",
+                "title": "Server doc.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UMJD8R3MX",
+                "editable": false,
+                "size": 16892,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TMQQCHQ8G-FQW2NEP2N\/server_doc.docx?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TMQQCHQ8G-FQW2NEP2N\/download\/server_doc.docx?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TMQQCHQ8G-FQW2NEP2N-919403bd15\/server_doc_converted.pdf?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TMQQCHQ8G-FQW2NEP2N-919403bd15\/server_doc_thumb_pdf.png?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/com-s-309-project.slack.com\/files\/UMJD8R3MX\/FQW2NEP2N\/server_doc.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TMQQCHQ8G-FQW2NEP2N-31d370341c",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ltl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "old docs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UMJD8R3MX",
+        "ts": "1575427629.003000",
+        "client_msg_id": "72e72673-53bb-4e53-9e78-367ae762ddca"
+    }
+]

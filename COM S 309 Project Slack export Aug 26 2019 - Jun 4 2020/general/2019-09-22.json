@@ -1,0 +1,63 @@
+[
+    {
+        "client_msg_id": "bf00b4a3-3214-4468-907f-4fec1ae0de28",
+        "type": "message",
+        "text": "MySQL\nID: sb2\nPassword: Coms309_",
+        "user": "UMQQCHQUQ",
+        "ts": "1569180246.021500",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "ge93d63c3e69",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e93d63c3e6902008d68ae3eea759ba82.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "",
+            "real_name": "Jooseung",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "jooseung",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FNM865W13",
+                "created": 1569204260,
+                "timestamp": 1569204260,
+                "name": "Screen Sketches.pdf",
+                "title": "Screen Sketches.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UMDBCCHJP",
+                "editable": false,
+                "size": 521270,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TMQQCHQ8G-FNM865W13\/screen_sketches.pdf?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TMQQCHQ8G-FNM865W13\/download\/screen_sketches.pdf?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TMQQCHQ8G-FNM865W13-9302c5b5fc\/screen_sketches_thumb_pdf.png?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "thumb_pdf_w": 910,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/com-s-309-project.slack.com\/files\/UMDBCCHJP\/FNM865W13\/screen_sketches.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TMQQCHQ8G-FNM865W13-c870e7a12b",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UMDBCCHJP",
+        "display_as_bot": false,
+        "ts": "1569204262.021600",
+        "client_msg_id": "d8295f98-5944-457c-a996-5e5340117974"
+    }
+]

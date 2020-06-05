@@ -1,0 +1,97 @@
+[
+    {
+        "type": "message",
+        "text": "latest server jar built",
+        "files": [
+            {
+                "id": "FP1MKK6KZ",
+                "created": 1570060145,
+                "timestamp": 1570060145,
+                "name": "drawchat-0.0.1-SNAPSHOT.jar",
+                "title": "drawchat-0.0.1-SNAPSHOT.jar",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "UMJD8R3MX",
+                "editable": false,
+                "size": 45311509,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TMQQCHQ8G-FP1MKK6KZ\/drawchat-0.0.1-snapshot.jar?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TMQQCHQ8G-FP1MKK6KZ\/download\/drawchat-0.0.1-snapshot.jar?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "permalink": "https:\/\/com-s-309-project.slack.com\/files\/UMJD8R3MX\/FP1MKK6KZ\/drawchat-0.0.1-snapshot.jar",
+                "permalink_public": "https:\/\/slack-files.com\/TMQQCHQ8G-FP1MKK6KZ-2c0d06276f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UMJD8R3MX",
+        "display_as_bot": false,
+        "ts": "1570060147.000100",
+        "client_msg_id": "e013e3a7-a91f-4e15-a204-acf8313dc611"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FNNGQEARZ",
+                "created": 1570078185,
+                "timestamp": 1570078185,
+                "name": "drawchat.rar",
+                "title": "drawchat.rar",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "UMJD8R3MX",
+                "editable": false,
+                "size": 40434497,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TMQQCHQ8G-FNNGQEARZ\/drawchat.rar?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TMQQCHQ8G-FNNGQEARZ\/download\/drawchat.rar?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "permalink": "https:\/\/com-s-309-project.slack.com\/files\/UMJD8R3MX\/FNNGQEARZ\/drawchat.rar",
+                "permalink_public": "https:\/\/slack-files.com\/TMQQCHQ8G-FNNGQEARZ-eee0d43e2e",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UMJD8R3MX",
+        "display_as_bot": false,
+        "ts": "1570078194.000400",
+        "client_msg_id": "fd7aa9b9-ea1d-4c9a-bb2e-e18b01b68cce"
+    },
+    {
+        "client_msg_id": "5ca6e0e0-d442-4391-8b6b-a90fd954320e",
+        "type": "message",
+        "text": "got it thx",
+        "user": "UMDBCCHJP",
+        "ts": "1570078248.000800",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "gbe474a229c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/be474a229c528640e2d3f3a4307feba6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Kyle Gug",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "rnrgprms1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

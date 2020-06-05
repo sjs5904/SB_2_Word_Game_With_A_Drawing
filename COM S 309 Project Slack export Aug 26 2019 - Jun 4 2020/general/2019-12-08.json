@@ -1,0 +1,140 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FREJB73J4",
+                "created": 1575829271,
+                "timestamp": 1575829271,
+                "name": "Image from iOS.png",
+                "title": "Image from iOS",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UMDBCCHJP",
+                "editable": false,
+                "size": 387629,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TMQQCHQ8G-FREJB73J4\/image_from_ios.png?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TMQQCHQ8G-FREJB73J4\/download\/image_from_ios.png?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TMQQCHQ8G-FREJB73J4-21e40b2c52\/image_from_ios_64.png?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TMQQCHQ8G-FREJB73J4-21e40b2c52\/image_from_ios_80.png?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TMQQCHQ8G-FREJB73J4-21e40b2c52\/image_from_ios_360.png?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "thumb_360_w": 166,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TMQQCHQ8G-FREJB73J4-21e40b2c52\/image_from_ios_480.png?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "thumb_480_w": 222,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TMQQCHQ8G-FREJB73J4-21e40b2c52\/image_from_ios_160.png?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TMQQCHQ8G-FREJB73J4-21e40b2c52\/image_from_ios_720.png?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "thumb_720_w": 333,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TMQQCHQ8G-FREJB73J4-21e40b2c52\/image_from_ios_800.png?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1731,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TMQQCHQ8G-FREJB73J4-21e40b2c52\/image_from_ios_960.png?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "thumb_960_w": 444,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TMQQCHQ8G-FREJB73J4-21e40b2c52\/image_from_ios_1024.png?t=xoxe-738828602288-1172331074436-1172331081876-a36717768f1dfe08677b9dabda7bb52b",
+                "thumb_1024_w": 473,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1242,
+                "original_h": 2688,
+                "thumb_tiny": "AwAwABZfsD46r+dL\/Z7+o\/OtD8aUfWgDOOnyYxlfzpP7Ok\/vL+daVFACfhSik\/GlHSgA70UUUAIR6CjOOuB+NUP7Rf8A55j86R7vdgtCCfqeKANDcp7ijI9RWYLwA8Qr+Zpft3\/TFfzNLUD\/2Q==",
+                "permalink": "https:\/\/com-s-309-project.slack.com\/files\/UMDBCCHJP\/FREJB73J4\/image_from_ios.png",
+                "permalink_public": "https:\/\/slack-files.com\/TMQQCHQ8G-FREJB73J4-4428967361",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UMDBCCHJP",
+        "display_as_bot": false,
+        "ts": "1575829276.000100",
+        "client_msg_id": "254C19C2-8076-4A30-AA0F-21E41B559C70"
+    },
+    {
+        "client_msg_id": "81e1eff3-2c4b-498a-9484-a76ea480736d",
+        "type": "message",
+        "text": "so this was the only slot all of our group members could apply and i sent TA that i have only put one slot for 2:15 since all of the member had issue to actually meet before wednesday",
+        "user": "UMDBCCHJP",
+        "ts": "1575829600.001600",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "gbe474a229c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/be474a229c528640e2d3f3a4307feba6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Kyle Gug",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "rnrgprms1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5zFQr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so this was the only slot all of our group members could apply and i sent TA that i have only put one slot for 2:15 since all of the member had issue to actually meet before wednesday"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "34d6915e-d282-4190-ae3b-7ea7dcb830f5",
+        "type": "message",
+        "text": "Hope this sounds good for you guys",
+        "user": "UMDBCCHJP",
+        "ts": "1575829610.001900",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "gbe474a229c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/be474a229c528640e2d3f3a4307feba6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Kyle Gug",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "rnrgprms1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w7=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hope this sounds good for you guys"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

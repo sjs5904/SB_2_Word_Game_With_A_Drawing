@@ -1,0 +1,65 @@
+[
+    {
+        "client_msg_id": "27bf5b32-61e6-42ff-8197-f415b8373a1b",
+        "type": "message",
+        "text": "No class this week?",
+        "user": "UMQQLLDB7",
+        "ts": "1568047230.004500",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "g0cf17bcb657",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0cf17bcb6576ef1ffc0f89bb9c803ad1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "Jisoo han",
+            "display_name": "Jisoo han",
+            "team": "TMQQCHQ8G",
+            "name": "jhan8",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "E66FD8B4-3633-4AA4-AF46-0B1F5E29A6BC",
+        "type": "message",
+        "text": "Well at said no class for today",
+        "user": "UMDBCCHJP",
+        "ts": "1568047257.004900",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "gbe474a229c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/be474a229c528640e2d3f3a4307feba6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Kyle Gug",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "rnrgprms1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "45DFE49C-1C73-4A34-81EB-EDC659A5358B",
+        "type": "message",
+        "text": "We have meeting on wednesday",
+        "user": "UMDBCCHJP",
+        "ts": "1568047275.005300",
+        "team": "TMQQCHQ8G",
+        "user_team": "TMQQCHQ8G",
+        "source_team": "TMQQCHQ8G",
+        "user_profile": {
+            "avatar_hash": "gbe474a229c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/be474a229c528640e2d3f3a4307feba6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Kyle Gug",
+            "display_name": "",
+            "team": "TMQQCHQ8G",
+            "name": "rnrgprms1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]
