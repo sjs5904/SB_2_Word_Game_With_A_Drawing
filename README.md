@@ -45,3 +45,20 @@
 ### 클래스 기획 세부사항
 [Server doc pdf-1.pdf](https://github.com/sjs5904/SB_2_Word_Game_With_A_Drawing/files/4733749/Server.doc.pdf-1.pdf)  
 [client doc pdf-1.pdf](https://github.com/sjs5904/SB_2_Word_Game_With_A_Drawing/files/4733747/client.doc.pdf-1.pdf)  
+
+![Server doc pdf-1-1](https://user-images.githubusercontent.com/49792776/83834305-f211ba80-a728-11ea-91f1-7a19487a121a.png)
+![Server doc pdf-1-2](https://user-images.githubusercontent.com/49792776/83834306-f342e780-a728-11ea-8be9-a6a1f30084c1.png)
+![Server doc pdf-1-3](https://user-images.githubusercontent.com/49792776/83834307-f342e780-a728-11ea-8963-143a3c3d60bd.png)
+![Server doc pdf-1-4](https://user-images.githubusercontent.com/49792776/83834308-f3db7e00-a728-11ea-9e29-7b4e8a36fd86.png)
+![Server doc pdf-1-5](https://user-images.githubusercontent.com/49792776/83834310-f4741480-a728-11ea-9b84-05591111a407.png)
+
+![client doc pdf-1-01](https://user-images.githubusercontent.com/49792776/83834328-05bd2100-a729-11ea-958c-1afc704860db.png)
+![client doc pdf-1-02](https://user-images.githubusercontent.com/49792776/83834330-06ee4e00-a729-11ea-9220-af7146fee18c.png)
+![client doc pdf-1-03](https://user-images.githubusercontent.com/49792776/83834331-06ee4e00-a729-11ea-9e15-655113c4ac27.png)
+![client doc pdf-1-04](https://user-images.githubusercontent.com/49792776/83834332-0786e480-a729-11ea-8f24-75e5db4f0a00.png)
+![client doc pdf-1-05](https://user-images.githubusercontent.com/49792776/83834333-0786e480-a729-11ea-97c1-c5205f20647c.png)
+![client doc pdf-1-06](https://user-images.githubusercontent.com/49792776/83834334-081f7b00-a729-11ea-9355-808350956f1d.png)
+![client doc pdf-1-07](https://user-images.githubusercontent.com/49792776/83834335-081f7b00-a729-11ea-92d0-46df52c985f0.png)
+![client doc pdf-1-08](https://user-images.githubusercontent.com/49792776/83834336-08b81180-a729-11ea-83e9-e516f51b1ee9.png)
+![client doc pdf-1-09](https://user-images.githubusercontent.com/49792776/83834339-08b81180-a729-11ea-8871-dc26c8bef155.png)
+![client doc pdf-1-10](https://user-images.githubusercontent.com/49792776/83834340-0950a800-a729-11ea-9d4e-6a7e5fc3b222.png)
