@@ -1,10 +1,6 @@
 # SB_2
 본 프로젝트는 캐치마인드의 컨셉을 카피하여 구현했습니다
 ![Main-Feature-Test-Run](https://user-images.githubusercontent.com/49792776/83834002-35b7f480-a728-11ea-9ee4-cc22124953a6.gif)
-### 블록 다이어그램
-![555555](https://user-images.githubusercontent.com/49792776/83830631-8fb4bc00-a720-11ea-9ed5-5918f1975e37.png)
-### 데이터베이스 테이블 예시
-![image](https://user-images.githubusercontent.com/49792776/83830733-d1456700-a720-11ea-8119-a616342b8aa3.png)
 
 ### 사용한 프로그램
   1. git desktop  
@@ -44,6 +40,11 @@
       
 ### 스크린 플로우 계획
 ![image](https://user-images.githubusercontent.com/49792776/83834529-7f550f00-a729-11ea-8c5f-aa8db6582d42.png)
+
+### 블록 다이어그램
+![555555](https://user-images.githubusercontent.com/49792776/83830631-8fb4bc00-a720-11ea-9ed5-5918f1975e37.png)
+### 데이터베이스 테이블 예시
+![image](https://user-images.githubusercontent.com/49792776/83830733-d1456700-a720-11ea-8119-a616342b8aa3.png)
 
 ### 클래스 기획 세부사항
 [Server doc pdf-1.pdf](https://github.com/sjs5904/SB_2_Word_Game_With_A_Drawing/files/4733749/Server.doc.pdf-1.pdf)  
